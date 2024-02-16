@@ -1,1 +1,1 @@
-# SEPM-2
+# SEPM-2CCD
